@@ -1,4 +1,4 @@
-# shell
+# script
 ## about lisp and perl
 ## about Linux
 ## about unix
